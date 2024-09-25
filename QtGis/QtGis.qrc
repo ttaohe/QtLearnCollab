@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/QtGis">
+        <file>images/res/clipboard16x16.png</file>
+        <file>images/res/clipboard32x32.png</file>
+        <file>images/res/close16x16.png</file>
+        <file>images/res/close32x32.png</file>
+        <file>images/res/cut16x16.png</file>
+        <file>images/res/new16x16.png</file>
+        <file>images/res/new32x32.png</file>
+        <file>images/res/open16x16.png</file>
+        <file>images/res/open32x32.png</file>
+        <file>images/res/print16x16.png</file>
+        <file>images/res/print32x32.png</file>
+        <file>images/res/redo16x16.png</file>
+        <file>images/res/save16x16.png</file>
+        <file>images/res/save32x32.png</file>
+        <file>images/res/saveasfile16x16.png</file>
+        <file>images/res/saveasfile32x32.png</file>
+        <file>images/res/undo16x16.png</file>
+        <file>images/res/mActionAddRasterLayer.svg</file>
+        <file>images/res/mActionAddVectorLayer.svg</file>
+        <file>images/res/mActionAddGroup.svg</file>
+        <file>images/res/mActionCollapseAll.svg</file>
+        <file>images/res/mActionExpandAll.svg</file>
+        <file>images/res/mmImage_Open.png</file>
+        <file>images/res/mUAVLoc.png</file>
+        <file>images/res/mJinjingloc.png</file>
+        <file>images/res/mrgbsarirDetect.png</file>
+        <file>images/res/mrgbirDetect.png</file>
+        <file>images/res/mrgbsarDetect.png</file>
+        <file>images/res/mrgbsarBianshi.png</file>
+        <file>images/res/msarDetect.png</file>
+        <file>images/res/mZhiFangTu.png</file>
+        <file>images/res/mrgbDetect.png</file>
+        <file>images/res/mZengQiang.png</file>
+        <file>images/res/mLvBo.png</file>
+        <file>images/res/mLaShen.png</file>
+        <file>images/res/mCutImage.png</file>
+        <file>images/res/mJinZiTa.png</file>
+        <file>images/res/ribbonMinimize.png</file>
+        <file>images/res/about.png</file>
+        <file>images/res/ribbonMaximize.png</file>
+        <file>images/res/layer.png</file>
+        <file>images/res/module.png</file>
+        <file>images/res/mmdetloc.png</file>
+    </qresource>
+</RCC>
